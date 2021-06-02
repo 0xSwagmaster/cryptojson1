@@ -1,0 +1,46 @@
+{
+  "websites": [
+    {
+      "name": "eeeeeeeeeeeeeeeeeeee",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/main.html",
+      "keywords": "eeeeeeeeeeeeeeeeeeee",
+      "bio": "eeeeeeeeeeeeeeeeee",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"
+    },
+    {
+      "name": "The Double Spending Problem Explained",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/main.html",
+      "keywords": "bitcoin blockchain btc",
+      "bio": " Bitcoin is a Cryptocurrency created by Satoshi Nakamoto in 2009. This article explains what the double spending problem is. Before blockchain, creating a digital currency was extremely challenging. Although double spending is not that big of a problem in the real world, it is big obstacle for digital currencies.  Bitcoin addressed the double spending problem by using blockchain. ",
+      "image": "https://localbitcoinnow.com/wp-content/uploads/2019/12/The-bit-logo-e1575819611411.png"
+    },
+    {
+      "name": "Dai Simply Explained",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/daiexplained.html",
+      "keywords": "dai stablecoin blockchain maker makerdao",
+      "bio": "Dai is one of the most popular stablecoins currently on the market. Unlike other stablecoins like Tether, it is a decentralized stablecoin. Dai was created by MakerDao and is one of the most successful projects on the Ethereum ecosystem. The MakerDao protocol has two unique tokens: Dai and Maker. This article will explain what it is and how it works. Warning: this is arguably the most advanced article on this site.",
+      "image": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png"
+    },
+    {
+      "name": "Ethereum Competitors Simply Explained",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/ethereumcompetitorsexplained.html",
+      "keywords": "polkadot cardano ada ethereum solana eth dot",
+      "bio": "New chains, such as Polkadot, Binance Smart Chain, and Cardano, have taken the crypto space by storm. Some people believe that these chains are <q>Ethereum Killers</q>. They believe that these chains will ultimately replace Ethereum, because they claim to be faster, better, cheaper, and more efficient than Ethereum itself. This artice will explain the impact of each Ethereum chain and the solution it is trying to solve. This is not financial advice.",
+      "image": "https://www.moneyweb.co.za/wp-content/uploads/2021/04/Banner-2.png"
+    },
+    {
+      "name": "Flash Loans Simply Explained",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/flashloans.html",
+      "keywords":  "defi aave flashloans loan compound arbitrage ethereum dapps dapp",
+      "bio": "Flash Loans are one of the most innovative and important aspects of crypto. It can be an extremely hard concept to grasp, especially for someone new to the crypto space. This article will simply explain how flash loans work and why they are important.",
+      "image": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ynkavgp8qdbns0uudsza"
+    },
+    {
+      "name": "How Are Triple Digit Yields Possible?",
+      "link": "file:///Users/evanhassan/cryptoproject/articles/yieldfarminginsaneapy.html",
+      "keywords": "yearn yieldfarming defi aave maker compound pickle harvest finance ethereum",
+      "bio": "Yield farming is staking or lending crypto in order to generate high return. Many people have been able to generate returns upward of 2000%. How is this possible? ",
+      "image": "https://hotemoji.com/images/emoji/3/1ktzh13isnyl3.png"
+    }
+  ]
+}
