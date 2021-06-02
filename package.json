@@ -1,0 +1,23 @@
+{
+  "name": "cryptothingy",
+  "version": "1.0.0",
+  "description": "Swaggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xSwagmaster/cryptojson1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xSwagmaster/cryptojson1/issues"
+  },
+  "homepage": "https://github.com/0xSwagmaster/cryptojson1#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
